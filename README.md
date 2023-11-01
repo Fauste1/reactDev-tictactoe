@@ -2,7 +2,7 @@
 
 From React's official Tic Tac Toe tutorial.
 
-Next up: https://react.dev/learn/tutorial-tic-tac-toe#taking-turns
+Next up: https://react.dev/learn/tutorial-tic-tac-toe#declaring-a-winner
 
 Notes:
 - I wonder if instead of passing a hardcoded position of the Square to the 'handleClick' function I could somehow use the 'this.value' syntax
